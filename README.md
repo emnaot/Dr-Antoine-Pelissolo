@@ -1,16 +1,16 @@
 # Medical Appointment and Patient Management System
 <div style="display: flex; overflow-x: auto; white-space: nowrap; gap: 10px; padding: 10px;">
 
-![Screenshot 1](https://github.com/user-attachments/assets/7545b87f-e6ca-4565-8977-9f5c77e67419)  
-![Screenshot 2](https://github.com/user-attachments/assets/b58edb37-d867-43a5-912d-0696ec8bb456)  
-![Screenshot 3](https://github.com/user-attachments/assets/ea397f58-f96c-46ad-ad53-11d26ce8695a)  
-![Screenshot 4](https://github.com/user-attachments/assets/846fa4b5-e83a-462d-b388-daf63e2721ed)  
-![Screenshot 5](https://github.com/user-attachments/assets/7ac76dae-399f-4f66-ae57-8bf2ebdca99c)  
-![Tableau de Bord](https://github.com/user-attachments/assets/dc44dd95-ed5d-4e82-91ba-6c0b2a0da0af)  
-![Screenshot 6](https://github.com/user-attachments/assets/fe9852f4-948c-4cb1-8c81-574855953d00)  
-![Screenshot 7](https://github.com/user-attachments/assets/92e0d00b-a2b3-485b-b125-f64276add44e)  
-![Screenshot 8](https://github.com/user-attachments/assets/57edf065-b0f1-40ec-af61-94eb9ec4e278)  
-![Screenshot 9](https://github.com/user-attachments/assets/6b08fe22-dfba-4075-b514-662321f08c91)
+<img src="https://github.com/user-attachments/assets/7545b87f-e6ca-4565-8977-9f5c77e67419" alt="Screenshot 1" width="400" />
+<img src="https://github.com/user-attachments/assets/b58edb37-d867-43a5-912d-0696ec8bb456" alt="Screenshot 2" width="400" />
+<img src="https://github.com/user-attachments/assets/ea397f58-f96c-46ad-ad53-11d26ce8695a" alt="Screenshot 3" width="400" />
+<img src="https://github.com/user-attachments/assets/846fa4b5-e83a-462d-b388-daf63e2721ed" alt="Screenshot 4" width="400" />
+<img src="https://github.com/user-attachments/assets/7ac76dae-399f-4f66-ae57-8bf2ebdca99c" alt="Screenshot 5" width="400" />
+<img src="https://github.com/user-attachments/assets/dc44dd95-ed5d-4e82-91ba-6c0b2a0da0af" alt="Tableau de Bord" width="400" />
+<img src="https://github.com/user-attachments/assets/fe9852f4-948c-4cb1-8c81-574855953d00" alt="Screenshot 6" width="400" />
+<img src="https://github.com/user-attachments/assets/92e0d00b-a2b3-485b-b125-f64276add44e" alt="Screenshot 7" width="400" />
+<img src="https://github.com/user-attachments/assets/57edf065-b0f1-40ec-af61-94eb9ec4e278" alt="Screenshot 8" width="400" />
+<img src="https://github.com/user-attachments/assets/6b08fe22-dfba-4075-b514-662321f08c91" alt="Screenshot 9" width="400" />
 </div>
 
 ## Description

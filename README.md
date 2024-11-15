@@ -31,24 +31,7 @@ A web application designed to simplify the process of booking medical appointmen
 - **Backend**: Laravel 
 - **Database**: MySQL
 
-## Environment Variables
 
-To run this project, you will need to add the following environment variables to your `.env` file:
-
-```bash
-APP_NAME=MedicalAppointmentSystem
-APP_ENV=local
-APP_KEY=your_app_key_here
-APP_DEBUG=true
-APP_URL=http://localhost
-
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=your_database_name
-DB_USERNAME=your_database_username
-DB_PASSWORD=your_database_password
-```
 
 ## License
 
